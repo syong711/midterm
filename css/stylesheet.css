@@ -1,0 +1,26 @@
+body{
+    background-color: #F2E9E4;
+}
+
+
+/* h1 {
+    color: rgb(71, 81, 148);
+} */
+
+
+.welcome_border{
+    border-style: none;
+    border-color: 9A8C98;
+}
+
+.menu_border{
+    border-style: none;
+    border-color: C9ADA7;
+}
+
+
+.navigation{
+    background-color: lightblue;
+    text-align: center;
+}
+
